@@ -91,7 +91,7 @@ class GradientContainer extends StatelessWidget {
 //        ),
 //      ),
 //      child: const Center(
-//        child: StyleText(" The sagar rajak tenacious 3.one!"),
+//        child: StyleText(" The Jeet Zala tenacious 3.one!"),
 //      ),
 //    );
 //  }
